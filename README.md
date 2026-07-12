@@ -1,16 +1,39 @@
-## Hi there 👋
+<p align="center">
+  <img src="fariha.png" width="100%">
+</p>
 
-<!--
-**Farihatabassum6132/Farihatabassum6132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 I'm Fariha Tabassum
 
-Here are some ideas to get you started:
+🎓 CSE Graduate from Bangladesh Army International University of Science and Technology (BAIUST)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Software Developer
+
+🌱 Currently Learning
+- Python
+- Web Development
+- Git & GitHub
+- Linux
+
+🛠 Skills
+
+- C
+- C++
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+📂 Projects
+
+- Bangla Sentiment Analysis
+- Operating System Lab
+- Data Structures & Algorithms
+- Web Development Projects
+
+📫 Contact
+
+📧 Email: farihamahi6132@gmail.com
+
+⭐ Thanks for visiting my profile!
